@@ -1,2 +1,2 @@
 # sync
-golang并发同步
+golang concurrency sync
